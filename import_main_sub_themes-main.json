@@ -1,1 +1,1148 @@
-{"main_themes":[{"id":"10","name":"Thailand","imageUrl":"https://travelc.azureedge.net/themes/thai_137-1cc0b17c-d904-4ede-bf08-65c3df6337eb.jpg","ideas":[],"sub_themes":[],"additionalProperties":{}},{"id":"73","name":"Vereinigte Arabische Emirate","imageUrl":"https://travelc.azureedge.net/themes/the-palm-962785_960_720-4453c27c-0258-4784-95ff-0dacf70c005d.jpg","ideas":[],"sub_themes":[],"additionalProperties":{}},{"id":"123","name":"Indonesien","imageUrl":"https://travelc.azureedge.net/themes/Bzrh9iT2nLa9-5a6095c04ff62f.jpg","ideas":[],"sub_themes":[],"additionalProperties":{}},{"id":"237","name":"Vietnam","imageUrl":"https://travelc.azureedge.net/themes/Vietnam-b58e058f-591d-46af-b14a-0ad487e75453.jpg","ideas":[],"sub_themes":[],"additionalProperties":{}},{"id":"238","name":"Kambodscha","imageUrl":"https://travelc.azureedge.net/themes/cambodia-6a2afb7a-a4d8-48cf-a32b-74c36c56bac0.jpg","ideas":[],"sub_themes":[],"additionalProperties":{}},{"id":"239","name":"Laos","imageUrl":"https://travelc.azureedge.net/themes/laos-b8b2df12-0c75-4fc3-b845-eb205e60fa8c.jpg","ideas":[],"sub_themes":[],"additionalProperties":{}},{"id":"240","name":"Myanmar","imageUrl":"https://travelc.azureedge.net/themes/myanmar-5a32c04a-c585-4820-8396-35064e2cd4aa.jpg","ideas":[],"sub_themes":[],"additionalProperties":{}},{"id":"241","name":"Malaysia","imageUrl":"https://travelc.azureedge.net/themes/1024px-The_Petronas_Twin_Towers_in_Kuala_Lumpur_(Malaysia)-30dc0686-29e3-4569-b3f3-41682bee607d.JPG","ideas":[],"sub_themes":[],"additionalProperties":{}},{"id":"242","name":"Taiwan","imageUrl":"https://travelc.azureedge.net/themes/taipei-taiwan-2057818_960_720-df78ed43-352b-4217-a381-33a78bd32bc8.jpg","ideas":[],"sub_themes":[],"additionalProperties":{}},{"id":"243","name":"Singapur","imageUrl":"https://travelc.azureedge.net/themes/singapur-ad0cef20-4867-43aa-a9ac-7168d660160c.jpg","ideas":[],"sub_themes":[],"additionalProperties":{}},{"id":"244","name":"Hongkong","imageUrl":"https://travelc.azureedge.net/themes/hong%20kong-fc02b2d6-7fc8-4fea-8efe-1c28dd5ee528.jpg","ideas":[],"sub_themes":[],"additionalProperties":{}},{"id":"245","name":"Sri Lanka","imageUrl":"https://travelc.azureedge.net/themes/srilanka-97f720ac-704e-4cdc-8802-2cb858f522ff.jpg","ideas":[],"sub_themes":[],"additionalProperties":{}},{"id":"246","name":"Malediven","imageUrl":"https://travelc.azureedge.net/themes/maldives-262516_960_720-45f093bb-169c-4f6d-a63f-4458a4d84146.jpg","ideas":[],"sub_themes":[],"additionalProperties":{}},{"id":"247","name":"Seychellen","imageUrl":"https://travelc.azureedge.net/themes/seychelles-92c2dab8-5f85-42bb-84d2-ca90c14fef9b.jpg","ideas":[],"sub_themes":[],"additionalProperties":{}},{"id":"248","name":"Mauritius","imageUrl":"https://travelc.azureedge.net/themes/Mauricio-8e910d75-e573-4406-87dc-ae578ff7969a.jpg","ideas":[],"sub_themes":[],"additionalProperties":{}}]}
+{
+    "main_themes": [
+        {
+            "id": 245,
+            "name": "Sri Lanka",
+            "imageUrl": "https://tr2storage.blob.core.windows.net/themes/srilanka-97f720ac-704e-4cdc-8802-2cb858f522ff.jpg",
+            "sub_themes": [
+                {
+                    "id": "245_4",
+                    "name": "Strand",
+                    "imageUrl": "https://tr2storage.blob.core.windows.net/themes/1869748-9bb43f9e-a7a1-4d74-bc23-7b180829a019.jpg",
+                    "ideas": [
+                        {
+                            "id": "245_4_60095",
+                            "title": "Dubai \u0026 Baden auf Sri Lanka",
+                            "description": "Erste Station dieser spannenden Reisekombination ist Dubai, die aufstrebende Handelsmetropole des Nahen Ostens. Danach entdecken Sie die schÃ¶ne und vielfÃ¤ltige Insel Sri Lanka. Umgeben von den blauen GewÃ¤ssern des Indischen Ozeans breiten sich lange SandstrÃ¤nde vor Ihrem Hotel aus. Im Grundpaket sind 12 NÃ¤chte enthalten, das angegebene Preisbeispiel wurde mit Abflug ab Frankfurt am 20.09.2017 ermittelt. Aufenthaltsdauer, Hotels, Datum sowie Abflughafen kÃ¶nnen Ihren individuellen WÃ¼nschen entsprechend angepasst werden. MÃ¶gliche AbflughÃ¤fen in Verbindung mit Emirates sind: Frankfurt, MÃ¼nchen, DÃ¼sseldorf, Hamburg, Wien, Amsterdam, ZÃ¼rich \u0026 Prag",
+                            "imageUrl": "https://travelc.azureedge.net/imagenes/cTceczk8XtLw-6129bd314f84b.jpg",
+                            "creationDate": "2017-06-16",
+                            "departureDate": "2017-09-20",
+                            "ideaUrl": "http://buchung.suntrips.de/idea/brochure.xhtml?id\u003d60095\u0026title\u003ddubai-baden-auf-sri-lanka\u0026lang\u003dDE\u0026agency\u003dfake-external",
+                            "themes": [
+                                "Strand",
+                                "Vereinigte Arabische Emirate",
+                                "Sri Lanka"
+                            ],
+                            "pricePerPerson": {
+                                "amount": "1614",
+                                "currency": "EUR",
+                                "amountDot": "1.614",
+                                "additionalProperties": {}
+                            },
+                            "counters": {
+                                "destinations": 2,
+                                "hotelNights": 12,
+                                "transports": 2,
+                                "hotels": 2,
+                                "cars": 0,
+                                "tickets": 0,
+                                "transfers": 4,
+                                "insurances": 0,
+                                "additionalProperties": {}
+                            },
+                            "destinations": [
+                                {
+                                    "fromDay": 1,
+                                    "toDay": 3,
+                                    "code": "DXB",
+                                    "name": "Dubai",
+                                    "country": "United Arab Emirates",
+                                    "description": "Dubai liegt zwischen Sharjah und Abu Dhabi (Hauptstadt) an der KÃ¼sÂ¬te des Arabischen Golfes. \r\nDer oberste Herrscher Dubais ist Sheikh Maktoum bin Rashid al-Maktoum. Seine beiden BrÃ¼der, Sheikh HamÂ¬dan und Sheikh MoÂ¬hamÂ¬med bekleiden ebenfalls hoÂ¬he Ministerposten. Dubai hat in etwa drei Millionen Einwohner, darunter etwa 600.000 Emiratis.\r\n\r\nEntgegen der allgemeinen Vermutung steht der ExÂ¬port von RohÃ¶l nur an fÃ¼nfter StelÂ¬le der wichtigsten WirtschaftsÂ¬zweiÂ¬ge Dubais. Weitaus wichtiger sind HanÂ¬del und Tourismus. \r\nNoch vor 30 Jahren hatte Dubai gerade einmal 180.000 Einwohner. Dubai ist ein islamisches Emirat, jedoch sehr tolerant gegenÂ¬Ã¼ber anderen. DenÂ¬noch richtet sich das Ã¶ffentliche LeÂ¬ben nach dem Islam. Der erste ArÂ¬beitstag in der Woche ist Sonntag. Freitag ist frei, DonÂ¬nerstag in manchen FÃ¤llen halbtags. Zu Ramadan, wird eigentlich nur eingeschrÃ¤nkt gearbeitet. Essen gibt es zumeist nur nach SonnenÂ¬untergang.\r\n\r\nDas Stadtbild der Stadt beiderseits des Creeks wird von GebÃ¤uden aus den vergangenen Jahren dominiert; Ã¤ltere HÃ¤user sind fast vÃ¶llig verschwunden. Nur selten findet man ein nach traditioneller Bauart gebautes Masayf (\u003dSommerhaus) mit einem WindÂ¬turm, der als traditionelle KlimaÂ¬anlage fungiert, oder das Mashait (\u003dWinterhaus) mit Garten. \r\nJedes Jahr werden in Dubai zahlreiche, in der Regel von Kronprinz Mohammed initiierte Projekte ins Leben gerufen. Hier eine KurzdarÂ¬stellung der allerspektakulÃ¤rsten. \r\n\r\n1999: Burj al Arab \r\nCa. 100 m vor der KÃ¼ste DuÂ¬bais entstand auf einer kÃ¼nstlichen Insel, das kÃ¼hnste Hotel-Projekt. \r\n\r\n2000: Internet-City Oktober 1999 verkÃ¼ndete er auf einer Pressekonferenz die InterÂ¬net City. In nur einem Jahr sollte sie Ã¼ber die InfraÂ¬struktur verfÃ¼gen, die New Economy-Unternehmen erÂ¬mÃ¶gÂ¬Â¬licht, ihre GeschÃ¤fte von Dubai aus zu tÃ¤tigen. Im SeptemÂ¬ber 2000 hatten sich bereits Ã¼ber 100 IT- Firmen niedergelassen, darunter GrÃ¶Ãen wie Microsoft, Oracle und Compaq. \r\n\r\n2000: Internet-Regierung \r\nUm den Regierungsapparat effiÂ¬zienÂ¬ter zu machen. gab er 1999 bekannt, dass in genau 18 Monaten Dubais Regierung Online sein soll. Die Frist wurde eingehalten, und so verfÃ¼gte Dubai Ã¼ber die erste E-Regierung der Welt. \r\n\r\n2003: Dubai Festival City \r\nNach Fertigstellung im Herbst 2003, soll dies eine weltweite AttÂ¬rakÂ¬tion inmitten am Ufer des Creeks werden, der sich ca. 12 km lang durch die Stadt zieht. Das Amphitheater mit modernster Sound- und LichtanlaÂ¬ge soll 8.000 Besuchern Platz bieten. \r\n\r\n2004: Souk Al Nakheel \r\nNach JahÂ¬resende 2003 und 2004 soll dort, wo jetzt noch WÃ¼stenÂ¬sand ist, 60.000 m2 VerkaufsÂ¬flÃ¤Â¬che, ein 20.000 m2 groÃer HyperÂ¬markt und 45.000 m2 fÃ¼r EnterÂ¬tainment mit der ersten Skihalle im mittleren Osten entstehen. Der Â¬moderne Souk wird nach FertigÂ¬stellung mitten im neuen Zentrum Dubais liegen. \r\n\r\n2004: Burj Khalifa\r\nDer welthÃ¶chste Turm, der Burj Dubai soll entstehen. Baubeginn sollte im April 2003 sein. \r\n\r\n2006: Emirates â grÃ¶Ãte Airline: \r\nIm Mai 2001 bestÃ¤tigte Emirates, dass auf Anweisung von Scheich Mohammed bis zu 60 neue GroÃÂ¬raumflugzeuge des Typs A380 im Wert von U$ 10 Milliarden gekauft werden. 7 Airbusse des Typs A380 mit 555 Sitzen hatte Emirates bereits als erste Airline in Auftrag gegeben. Damit steht ab 2006 eine MindestkapazitÃ¤t von 35.000 Passagieren tÃ¤glich zur VerfÃ¼gung. \r\n\r\n2008: âThe Palmâ \r\nAnfang 2001 wurde das auÃergewÃ¶hnlichste ProÂ¬jekt bekanntgegeben. âThe Palmâ, ein riesiges ReÂ¬sort mit einem Durchmesser von 5 km, das sich Ã¼ber zwei palmenfÃ¶rmige InÂ¬seln erstreckt. mit 1800 VilÂ¬len und Ã¼ber hundert Town-Houses. 20 MoÂ¬delle stehen zur Auswahl, von der mexikanischen Hazienda Ã¼ber chinesische PavilÂ¬lons bis zum SÃ¼dstaaten-Anwesen. Wer hier in eine ImmoÂ¬bilie investieren will, muss sich beeilen; das meiste ist bereits verkauft\r\n",
+                                    "imageUrls": [
+                                        "https://travelc.azureedge.net/imagenes/europe/unitedarabemirates/dubai/pict1.jpg",
+                                        "https://travelc.azureedge.net/imagenes/europe/unitedarabemirates/dubai/pict2.jpg",
+                                        "https://travelc.azureedge.net/imagenes/europe/unitedarabemirates/dubai/pict3.jpg",
+                                        "https://travelc.azureedge.net/imagenes/europe/unitedarabemirates/dubai/pict4.jpg",
+                                        "https://travelc.azureedge.net/imagenes/europe/unitedarabemirates/dubai/pict5.jpg",
+                                        "https://travelc.azureedge.net/imagenes/europe/unitedarabemirates/dubai/pict6.jpg"
+                                    ],
+                                    "geolocation": {
+                                        "latitude": 25.217365923668318,
+                                        "longitude": 55.30792236328125,
+                                        "additionalProperties": {}
+                                    },
+                                    "recommendedAirportCode": "DXB",
+                                    "recommendedAirportName": "Dubai Intl",
+                                    "dauer": "3 Tage",
+                                    "ort": "Ibis Deira City Centre Dubai",
+                                    "additionalProperties": {}
+                                },
+                                {
+                                    "fromDay": 3,
+                                    "toDay": 13,
+                                    "code": "KL2-2",
+                                    "name": "Wadduwa, Sri Lanka",
+                                    "country": "Sri Lanka",
+                                    "description": "Rund um Wadduwa und Kalutara, ca. 40 km sÃ¼dlich von Colombo, befindet sich das Zentrum der traditionellen Kokosfaser- Korbbinderei, aber auch fÃ¼r Kautschuk-Gewinnung und Arrak-Produktion ist die Region bekannt. Die Resorts sind hier von hohen Kokospalmen umgeben und fÃ¼gen sich harmonisch in die Landschaft ein, die SandstrÃ¤nde laden zu langen SpaziergÃ¤ngen ein. Die Bahnstrecke in den SÃ¼den verlÃ¤uft nah zur KÃ¼stenlinie, in einigen Hotels kÃ¶nnen zeitweise BahngerÃ¤usche hÃ¶rbar sein. Besonders wÃ¤hrend der Regenzeit ist die Brandung oft sehr stark und das Meer dann nicht zum Baden geeignet. Die beste Reisezeit fÃ¼r die WestkÃ¼ste ist von November bis April. Anreise per Landtransfer ab Colombo (Flughafen Bandaranaike).",
+                                    "imageUrls": [
+                                        "https://travelc.azureedge.net/imagenes/SbcS3CI0sKM7-71d5873f5613b.jpg",
+                                        "https://travelc.azureedge.net/imagenes/cTceczk8XtLw-6129bd314f84b.jpg",
+                                        "https://travelc.azureedge.net/imagenes/uyPsiYU7tmVw-waJune2013JPG.jpg"
+                                    ],
+                                    "geolocation": {
+                                        "latitude": 6.6362823,
+                                        "longitude": 79.95284509999999,
+                                        "additionalProperties": {}
+                                    },
+                                    "recommendedAirportCode": "CMB",
+                                    "recommendedAirportName": "Bandaranaike Intl Colombo",
+                                    "dauer": "11 Tage",
+                                    "ort": "Tangerine Beach Wadduwa, Sri Lanka",
+                                    "additionalProperties": {}
+                                }
+                            ],
+                            "transports": [
+                                {
+                                    "day": 1,
+                                    "transportType": "FLIGHT",
+                                    "originCode": "FRA",
+                                    "targetDestinationCode": "DXB",
+                                    "targetCode": "DXB",
+                                    "company": "Emirates",
+                                    "transportNumber": "EK44",
+                                    "duration": "6h 15m",
+                                    "departureTime": "11:00:00",
+                                    "arrivalTime": "19:15:00",
+                                    "numberOfSegments": 1,
+                                    "dayDifference": 0,
+                                    "originDestinationCode": "FRA-1",
+                                    "additionalProperties": {}
+                                },
+                                {
+                                    "day": 3,
+                                    "transportType": "FLIGHT",
+                                    "originCode": "DXB",
+                                    "targetDestinationCode": "KL2-2",
+                                    "targetCode": "CMB",
+                                    "company": "Emirates",
+                                    "transportNumber": "EK348",
+                                    "duration": "4h 20m",
+                                    "departureTime": "07:45:00",
+                                    "arrivalTime": "13:35:00",
+                                    "numberOfSegments": 1,
+                                    "dayDifference": 0,
+                                    "originDestinationCode": "DXB",
+                                    "additionalProperties": {}
+                                },
+                                {
+                                    "day": 13,
+                                    "transportType": "FLIGHT",
+                                    "originCode": "CMB",
+                                    "targetDestinationCode": "FRA-1",
+                                    "targetCode": "FRA",
+                                    "company": "Emirates",
+                                    "transportNumber": "EK655",
+                                    "duration": "14h 10m",
+                                    "departureTime": "22:10:00",
+                                    "arrivalTime": "08:50:00",
+                                    "numberOfSegments": 2,
+                                    "dayDifference": 1,
+                                    "originDestinationCode": "KL2-2",
+                                    "additionalProperties": {}
+                                }
+                            ],
+                            "transfers": [
+                                {
+                                    "day": 1,
+                                    "type": "IN",
+                                    "imageUrl": "https://tr2storage.blob.core.windows.net/transport/15401161_735123429969538_7048542296457374454_n-008901da-bcaa-4ebb-9fed-d0334fd867dd.jpg",
+                                    "productType": "STANDARD",
+                                    "vehicleType": "MINIBUS",
+                                    "transferServiceType": "SHARED",
+                                    "additionalProperties": {}
+                                },
+                                {
+                                    "day": 3,
+                                    "type": "OUT",
+                                    "imageUrl": "https://tr2storage.blob.core.windows.net/transport/15401161_735123429969538_7048542296457374454_n-72c67f06-9590-4549-837d-24a6276b901a.jpg",
+                                    "productType": "STANDARD",
+                                    "vehicleType": "MINIBUS",
+                                    "transferServiceType": "SHARED",
+                                    "additionalProperties": {}
+                                },
+                                {
+                                    "day": 3,
+                                    "type": "IN",
+                                    "imageUrl": "https://tr2storage.blob.core.windows.net/transferimages/private-sedan.jpg",
+                                    "productType": "STANDARD",
+                                    "vehicleType": "CAR",
+                                    "transferServiceType": "PRIVATE",
+                                    "additionalProperties": {}
+                                },
+                                {
+                                    "day": 13,
+                                    "type": "OUT",
+                                    "imageUrl": "https://tr2storage.blob.core.windows.net/transferimages/private-sedan.jpg",
+                                    "productType": "STANDARD",
+                                    "vehicleType": "CAR",
+                                    "transferServiceType": "PRIVATE",
+                                    "additionalProperties": {}
+                                }
+                            ],
+                            "hotels": [
+                                {
+                                    "day": 3,
+                                    "hotelData": {
+                                        "name": "Ibis Deira City Centre",
+                                        "category": "S3",
+                                        "imageUrls": [
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_ba_008.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_r_021.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_w_013.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_r_014.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_a_019.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_a_020.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_w_009.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_r_013.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_ba_007.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_r_008.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_r_016.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_w_008.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_w_012.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_011.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_a_021.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_w_010.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_a_022.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_r_019.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_r_018.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_w_011.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_ba_009.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_r_022.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_ba_010.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_009.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_r_003.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_ba_005.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_w_006.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_ba_004.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_w_015.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_ba_011.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_001.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_r_005.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_005.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_013.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_015.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_r_007.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_ba_012.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_w_002.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_014.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_010.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_a_023.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_r_004.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_w_016.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_l_001.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_017.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_r_020.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_r_006.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_ba_006.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_016.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_l_002.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_r_015.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_a_018.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_w_017.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_r_017.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_012.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_008.jpg"
+                                        ],
+                                        "includedServices": [
+                                            "Internetzugang",
+                                            "Minibar",
+                                            "Individuell regulierbare Klimaanlage",
+                                            "Kabelgebundenes Internet",
+                                            "WLAN-Internetzugang",
+                                            "Wiege auf Bestellung",
+                                            "Extrabetten auf Bestellung",
+                                            "WÃ¤scheservice",
+                                            "Garage",
+                                            "Safe",
+                                            "Haustiere auch +5 kg erlaubt",
+                                            "Fernseher",
+                                            "Fotokopierer",
+                                            "Businesscenter",
+                                            "Small pets allowed (under 5 kg)",
+                                            "Car park"
+                                        ],
+                                        "nonIncludedServices": [],
+                                        "otherServices": [
+                                            "Hotel",
+                                            "American Express",
+                                            "Badezimmer",
+                                            "Klimaanlage in Ã¶ffentlichen Bereichen",
+                                            "Barrierefreie Zimmer",
+                                            "Bar",
+                                            "Zentral regulierte Klimaanlage",
+                                            "KonferenzrÃ¤ume",
+                                            "Baujahr",
+                                            "Dusche",
+                                            "Restaurant",
+                                            "Wohnzimmer",
+                                            "Nichtraucherzone",
+                                            "Raucherzone",
+                                            "Mobilfunkempfang",
+                                            "FÃ¼r RollstÃ¼hle geeignet",
+                                            "Barrierefreies Badezimmer",
+                                            "Check-in-Zeit",
+                                            "Raucherzimmer",
+                                            "ZimmergrÃ¶Ãe (mÂ²)",
+                                            "Anzahl der Schlafzimmer",
+                                            "JCB",
+                                            "24h-Rezeption",
+                                            "FrÃ¼hstÃ¼cksbuffet",
+                                            "Check-out-Zeit",
+                                            "Diners Club",
+                                            "Strand",
+                                            "Haartrockner",
+                                            "FrÃ¼hstÃ¼ck",
+                                            "Anzahl der Stockwerke (HauptgebÃ¤ude)",
+                                            "MasterCard",
+                                            "Wechselstube",
+                                            "Mittagsbuffet",
+                                            "Mehrsprachiges Personal",
+                                            "Zimmer mit VerbindungstÃ¼r",
+                                            "Klimaanlage im Restaurant",
+                                            "Visa",
+                                            "Zimmeranzahl gesamt",
+                                            "Aufzug",
+                                            "Cafeteria",
+                                            "Abendbuffet",
+                                            "ISO  9001 certified hotels and restaurants",
+                                            "ISO  14001 certified hotels and restaurants"
+                                        ],
+                                        "geolocation": {
+                                            "latitude": 25.253385,
+                                            "longitude": 55.332954,
+                                            "additionalProperties": {}
+                                        },
+                                        "description": "GegenÃ¼ber der Deira City Centre Shopping Mall und im Businessdistrikt von Port Saeed gelegen befindet sich dieses Hotel in einer erstklassigen Lage im Herzen des historischen Teils von Dubai. Das Hotel bietet 365 klimatisierte Zimmer, ein Bistrorestaurant und eine Bar. GÃ¤ste schÃ¤tzen den Internetzugang in allen Zimmern und WLAN in der Lobby.",
+                                        "ratings": [
+                                            {
+                                                "source": "Expedia",
+                                                "numReviews": 1614,
+                                                "score": "4.0",
+                                                "additionalProperties": {}
+                                            },
+                                            {
+                                                "source": "HolidayCheck",
+                                                "numReviews": 158,
+                                                "score": "4.6",
+                                                "additionalProperties": {}
+                                            }
+                                        ],
+                                        "phoneNumber": "97142925000",
+                                        "address": "8TH STREET PORT SAEED DISTRICT,  ",
+                                        "additionalProperties": {}
+                                    },
+                                    "roomTypes": "Double or Twin (1)",
+                                    "mealPlan": "NUR ZIMMER",
+                                    "nights": 2,
+                                    "oneDays": "Tage",
+                                    "additionalProperties": {}
+                                },
+                                {
+                                    "day": 13,
+                                    "hotelData": {
+                                        "name": "Tangerine Beach",
+                                        "category": "S3",
+                                        "imageUrls": [
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_l_909.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_a_910.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_f_905.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_w_900.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_l_907.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_w_908.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_w_001.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_a_904.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_w_901.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_t_902.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_a_903.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_p_002.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_a_906.jpg"
+                                        ],
+                                        "includedServices": [
+                                            "Individuell regulierbare Klimaanlage",
+                                            "Tischtennis",
+                                            "WLAN-Internetzugang",
+                                            "Zimmerservice",
+                                            "Squash",
+                                            "WÃ¤scheservice",
+                                            "WÃ¤scherei",
+                                            "Medizinischer Dienst",
+                                            "Garage",
+                                            "Volleyball",
+                                            "Tennis",
+                                            "Massagen",
+                                            "Badminton",
+                                            "Spa-Anwendungen",
+                                            "Dart",
+                                            "Fitnessbereich",
+                                            "Haustiere auch +5 kg erlaubt",
+                                            "Fernseher",
+                                            "Small pets allowed (under 5 kg)",
+                                            "Car park"
+                                        ],
+                                        "nonIncludedServices": [],
+                                        "otherServices": [
+                                            "Hotel",
+                                            "American Express",
+                                            "Suiten",
+                                            "GeschÃ¤ft",
+                                            "Garten",
+                                            "DiÃ¤tkÃ¼che",
+                                            "Restaurant",
+                                            "Balkon",
+                                            "Terrasse",
+                                            "FÃ¼r RollstÃ¼hle geeignet",
+                                            "FrÃ¼hstÃ¼cksbuffet",
+                                            "Kinderbecken",
+                                            "FrÃ¼hstÃ¼ck",
+                                            "Anzahl der Stockwerke (HauptgebÃ¤ude)",
+                                            "MasterCard",
+                                            "Direktwahltelefon",
+                                            "Wechselstube",
+                                            "Mittagsbuffet",
+                                            "Pool-/Snackbar",
+                                            "Zimmer mit VerbindungstÃ¼r",
+                                            "Visa",
+                                            "Zimmeranzahl gesamt",
+                                            "Cafeteria",
+                                            "Abendbuffet",
+                                            "Zeitungskiosk"
+                                        ],
+                                        "geolocation": {
+                                            "latitude": 6.608,
+                                            "longitude": 79.948,
+                                            "additionalProperties": {}
+                                        },
+                                        "description": "Das Hotel befindet sich ca. 40 km sÃ¼dlich von Colombo am Strand von Kalutara.\n\nDas Hotel ist eine tropische Traumlandschaft in den Farben des Paradieses und gleichzeitig ein modernes 4-Sterne-Resort in unmittelbarer NÃ¤he zum Strand. Es hat 166 luxuriÃ¶se GÃ¤stezimmer und Suiten, einschlieÃlich einer PrÃ¤sidentensuite und 6 weiteren Suiten mit privaten Balkonen oder InnenhÃ¶fen. Das Hotel bietet seinen GÃ¤sten eine Wechselstube, ein CafÃ©, ein Restaurant und einen WÃ¤scheservice. Mit dem 24h-Zimmerservice bekommen die GÃ¤ste jederzeit Speisen und GetrÃ¤nke auf ihrem Zimmer serviert.\n\nAlle Suiten und Zimmer bieten einen atemberaubenden Blick auf den Ozean und den Garten. Jedes Zimmer hat eine individuell regulierbare Klimaanlage. Die weiteren Annehmlichkeiten umfassen Hintergrundmusik, Ventilatoren und gut ausgestattete Badezimmer mit Badewanne und Dusche. Ein Direktwahltelefon, ein TV und ein Balkon oder eine Terrasse zÃ¤hlen ebenso zur Grundausstattung.\n\nDas Hotel bietet einen groÃen AuÃenpool mit einer Poolbar, TennisplÃ¤tze mit Flutlicht, Tischtennis, Volleyball, Badminton, Billard und ein Fitnessstudio mit Massagen.",
+                                        "ratings": [
+                                            {
+                                                "source": "Booking.com",
+                                                "numReviews": 35,
+                                                "score": "8.300000190734863",
+                                                "additionalProperties": {}
+                                            },
+                                            {
+                                                "source": "Expedia",
+                                                "numReviews": 1101,
+                                                "score": "4.0",
+                                                "additionalProperties": {}
+                                            },
+                                            {
+                                                "source": "HolidayCheck",
+                                                "numReviews": 311,
+                                                "score": "4.9",
+                                                "additionalProperties": {}
+                                            }
+                                        ],
+                                        "phoneNumber": "0094342237982",
+                                        "address": "DE ABREW DRIVE, WASKADUWA,  ",
+                                        "additionalProperties": {}
+                                    },
+                                    "roomTypes": "DOPPEL (1)",
+                                    "mealPlan": "Ãbernachtung mit FrÃ¼hstÃ¼ck",
+                                    "nights": 10,
+                                    "oneDays": "Tage",
+                                    "additionalProperties": {}
+                                }
+                            ],
+                            "tickets": [],
+                            "cars": [],
+                            "insurances": [],
+                            "additionalProperties": {}
+                        }
+
+                    ],
+                    "minPrice": "959",
+                    "minPriceDot": "959"
+                }
+            ],
+            "ideas": [
+                {
+                    "id": 57727,
+                    "title": "Dubai \u0026 Baden auf Sri Lanka",
+                    "description": "Erste Station dieser spannenden Reisekombination ist Dubai, die aufstrebende Handelsmetropole des Nahen Ostens. Danach entdecken Sie die schöne und vielfältige Insel Sri Lanka. Umgeben von den blauen Gewässern des Indischen Ozeans breiten sich lange Sandstrände vor Ihrem Hotel aus. Im Grundpaket sind 12 Nächte enthalten, das angegebene Preisbeispiel wurde mit Abflug ab Frankfurt am 20.09.2017 ermittelt. Aufenthaltsdauer, Hotels, Datum sowie Abflughafen können Ihren individuellen Wünschen entsprechend angepasst werden. Mögliche Abflughäfen in Verbindung mit Emirates sind: Frankfurt, München, Düsseldorf, Hamburg, Wien, Amsterdam, Zürich \u0026 Prag",
+                    "imageUrl": "https://tr2storage.blob.core.windows.net/imagenes/cTceczk8XtLw-6129bd314f84b.jpg",
+                    "creationDate": "2017-06-06",
+                    "departureDate": "2017-09-20",
+                    "ideaUrl": "http://buchung.suntrips.de/idea/brochure.xhtml?id\u003d57727\u0026title\u003ddubai-baden-auf-sri-lanka\u0026lang\u003dDE\u0026agency\u003dfake-external",
+                    "themes": [
+                        "Vereinigte Arabische Emirate",
+                        "Sri Lanka"
+                    ],
+                    "pricePerPerson": {
+                        "amount": "1614",
+                        "currency": "EUR",
+                        "amountDot": "1.614"
+                    },
+                    "counters": {
+                        "destinations": 2,
+                        "hotelNights": 12,
+                        "transports": 2,
+                        "hotels": 2,
+                        "cars": 0,
+                        "tickets": 0,
+                        "transfers": 4,
+                        "insurances": 0
+                    },
+                    "destinations": [
+                        {
+                            "fromDay": 1,
+                            "toDay": 3,
+                            "code": "DXB",
+                            "name": "Dubai",
+                            "country": "United Arab Emirates",
+                            "description": "Dubai liegt zwischen Sharjah und Abu Dhabi (Hauptstadt) an der Küs¬te des Arabischen Golfes. \r\nDer oberste Herrscher Dubais ist Sheikh Maktoum bin Rashid al-Maktoum. Seine beiden Brüder, Sheikh Ham¬dan und Sheikh Mo¬ham¬med bekleiden ebenfalls ho¬he Ministerposten. Dubai hat in etwa drei Millionen Einwohner, darunter etwa 600.000 Emiratis.\r\n\r\nEntgegen der allgemeinen Vermutung steht der Ex¬port von Rohöl nur an fünfter Stel¬le der wichtigsten Wirtschafts¬zwei¬ge Dubais. Weitaus wichtiger sind Han¬del und Tourismus. \r\nNoch vor 30 Jahren hatte Dubai gerade einmal 180.000 Einwohner. Dubai ist ein islamisches Emirat, jedoch sehr tolerant gegen¬über anderen. Den¬noch richtet sich das öffentliche Le¬ben nach dem Islam. Der erste Ar¬beitstag in der Woche ist Sonntag. Freitag ist frei, Don¬nerstag in manchen Fällen halbtags. Zu Ramadan, wird eigentlich nur eingeschränkt gearbeitet. Essen gibt es zumeist nur nach Sonnen¬untergang.\r\n\r\nDas Stadtbild der Stadt beiderseits des Creeks wird von Gebäuden aus den vergangenen Jahren dominiert; ältere Häuser sind fast völlig verschwunden. Nur selten findet man ein nach traditioneller Bauart gebautes Masayf (\u003dSommerhaus) mit einem Wind¬turm, der als traditionelle Klima¬anlage fungiert, oder das Mashait (\u003dWinterhaus) mit Garten. \r\nJedes Jahr werden in Dubai zahlreiche, in der Regel von Kronprinz Mohammed initiierte Projekte ins Leben gerufen. Hier eine Kurzdar¬stellung der allerspektakulärsten. \r\n\r\n1999: Burj al Arab \r\nCa. 100 m vor der Küste Du¬bais entstand auf einer künstlichen Insel, das kühnste Hotel-Projekt. \r\n\r\n2000: Internet-City Oktober 1999 verkündete er auf einer Pressekonferenz die Inter¬net City. In nur einem Jahr sollte sie über die Infra¬struktur verfügen, die New Economy-Unternehmen er¬mög¬¬licht, ihre Geschäfte von Dubai aus zu tätigen. Im Septem¬ber 2000 hatten sich bereits über 100 IT- Firmen niedergelassen, darunter Größen wie Microsoft, Oracle und Compaq. \r\n\r\n2000: Internet-Regierung \r\nUm den Regierungsapparat effi¬zien¬ter zu machen. gab er 1999 bekannt, dass in genau 18 Monaten Dubais Regierung Online sein soll. Die Frist wurde eingehalten, und so verfügte Dubai über die erste E-Regierung der Welt. \r\n\r\n2003: Dubai Festival City \r\nNach Fertigstellung im Herbst 2003, soll dies eine weltweite Att¬rak¬tion inmitten am Ufer des Creeks werden, der sich ca. 12 km lang durch die Stadt zieht. Das Amphitheater mit modernster Sound- und Lichtanla¬ge soll 8.000 Besuchern Platz bieten. \r\n\r\n2004: Souk Al Nakheel \r\nNach Jah¬resende 2003 und 2004 soll dort, wo jetzt noch Wüsten¬sand ist, 60.000 m2 Verkaufs¬flä¬che, ein 20.000 m2 großer Hyper¬markt und 45.000 m2 für Enter¬tainment mit der ersten Skihalle im mittleren Osten entstehen. Der ¬moderne Souk wird nach Fertig¬stellung mitten im neuen Zentrum Dubais liegen. \r\n\r\n2004: Burj Khalifa\r\nDer welthöchste Turm, der Burj Dubai soll entstehen. Baubeginn sollte im April 2003 sein. \r\n\r\n2006: Emirates – größte Airline: \r\nIm Mai 2001 bestätigte Emirates, dass auf Anweisung von Scheich Mohammed bis zu 60 neue Groß¬raumflugzeuge des Typs A380 im Wert von U$ 10 Milliarden gekauft werden. 7 Airbusse des Typs A380 mit 555 Sitzen hatte Emirates bereits als erste Airline in Auftrag gegeben. Damit steht ab 2006 eine Mindestkapazität von 35.000 Passagieren täglich zur Verfügung. \r\n\r\n2008: „The Palm“ \r\nAnfang 2001 wurde das außergewöhnlichste Pro¬jekt bekanntgegeben. „The Palm“, ein riesiges Re¬sort mit einem Durchmesser von 5 km, das sich über zwei palmenförmige In¬seln erstreckt. mit 1800 Vil¬len und über hundert Town-Houses. 20 Mo¬delle stehen zur Auswahl, von der mexikanischen Hazienda über chinesische Pavil¬lons bis zum Südstaaten-Anwesen. Wer hier in eine Immo¬bilie investieren will, muss sich beeilen; das meiste ist bereits verkauft\r\n",
+                            "imageUrls": [
+                                "https://az745678.vo.msecnd.net/imagenes/europe/unitedarabemirates/dubai/pict1.jpg",
+                                "https://az745678.vo.msecnd.net/imagenes/europe/unitedarabemirates/dubai/pict2.jpg",
+                                "https://az745678.vo.msecnd.net/imagenes/europe/unitedarabemirates/dubai/pict3.jpg",
+                                "https://az745678.vo.msecnd.net/imagenes/europe/unitedarabemirates/dubai/pict4.jpg",
+                                "https://az745678.vo.msecnd.net/imagenes/europe/unitedarabemirates/dubai/pict5.jpg",
+                                "https://az745678.vo.msecnd.net/imagenes/europe/unitedarabemirates/dubai/pict6.jpg"
+                            ],
+                            "geolocation": {
+                                "latitude": 25.217365923668318,
+                                "longitude": 55.30792236328125
+                            },
+                            "recommendedAirportCode": "DXB",
+                            "recommendedAirportName": "Dubai Intl",
+                            "Dauer": "3 Tage",
+                            "Ort": "Ibis Deira City Centre Dubai"
+                        },
+                        {
+                            "fromDay": 3,
+                            "toDay": 13,
+                            "code": "KL2-2",
+                            "name": "Wadduwa",
+                            "country": "Sri Lanka",
+                            "description": "Rund um Wadduwa und Kalutara, ca. 40 km südlich von Colombo, befindet sich das Zentrum der traditionellen Kokosfaser- Korbbinderei, aber auch für Kautschuk-Gewinnung und Arrak-Produktion ist die Region bekannt. Die Resorts sind hier von hohen Kokospalmen umgeben und fügen sich harmonisch in die Landschaft ein, die Sandstrände laden zu langen Spaziergängen ein. Die Bahnstrecke in den Süden verläuft nah zur Küstenlinie, in einigen Hotels können zeitweise Bahngeräusche hörbar sein. Besonders während der Regenzeit ist die Brandung oft sehr stark und das Meer dann nicht zum Baden geeignet. Die beste Reisezeit für die Westküste ist von November bis April. Anreise per Landtransfer ab Colombo (Flughafen Bandaranaike).",
+                            "imageUrls": [
+                                "https://tr2storage.blob.core.windows.net/imagenes/SbcS3CI0sKM7-71d5873f5613b.jpg",
+                                "https://tr2storage.blob.core.windows.net/imagenes/cTceczk8XtLw-6129bd314f84b.jpg",
+                                "https://tr2storage.blob.core.windows.net/imagenes/uyPsiYU7tmVw-waJune2013JPG.jpg"
+                            ],
+                            "geolocation": {
+                                "latitude": 6.6362823,
+                                "longitude": 79.95284509999999
+                            },
+                            "recommendedAirportCode": "CMB",
+                            "recommendedAirportName": "Bandaranaike Intl Colombo",
+                            "Dauer": "11 Tage",
+                            "Ort": "Tangerine Beach Wadduwa"
+                        }
+                    ],
+                    "transports": [
+                        {
+                            "day": 1,
+                            "transportType": "FLIGHT",
+                            "originDestinationCode": "FRA-1",
+                            "originCode": "FRA",
+                            "targetDestinationCode": "DXB",
+                            "targetCode": "DXB",
+                            "company": "Emirates",
+                            "transportNumber": "EK44",
+                            "duration": "6h 15m",
+                            "departureTime": "11:00:00",
+                            "arrivalTime": "19:15:00",
+                            "numberOfSegments": 1,
+                            "dayDifference": 0
+                        },
+                        {
+                            "day": 3,
+                            "transportType": "FLIGHT",
+                            "originDestinationCode": "DXB",
+                            "originCode": "DXB",
+                            "targetDestinationCode": "KL2-2",
+                            "targetCode": "CMB",
+                            "company": "Emirates",
+                            "transportNumber": "EK348",
+                            "duration": "4h 20m",
+                            "departureTime": "07:45:00",
+                            "arrivalTime": "13:35:00",
+                            "numberOfSegments": 1,
+                            "dayDifference": 0
+                        },
+                        {
+                            "day": 13,
+                            "transportType": "FLIGHT",
+                            "originDestinationCode": "KL2-2",
+                            "originCode": "CMB",
+                            "targetDestinationCode": "FRA-1",
+                            "targetCode": "FRA",
+                            "company": "Emirates",
+                            "transportNumber": "EK655",
+                            "duration": "14h 10m",
+                            "departureTime": "22:10:00",
+                            "arrivalTime": "08:50:00",
+                            "numberOfSegments": 2,
+                            "dayDifference": 1
+                        }
+                    ],
+                    "transfers": [
+                        {
+                            "day": 1,
+                            "type": "IN",
+                            "imageUrl": "https://tr2storage.blob.core.windows.net/transport/15401161_735123429969538_7048542296457374454_n-008901da-bcaa-4ebb-9fed-d0334fd867dd.jpg",
+                            "productType": "STANDARD",
+                            "vehicleType": "MINIBUS",
+                            "transferServiceType": "SHARED"
+                        },
+                        {
+                            "day": 3,
+                            "type": "OUT",
+                            "imageUrl": "https://tr2storage.blob.core.windows.net/transport/15401161_735123429969538_7048542296457374454_n-72c67f06-9590-4549-837d-24a6276b901a.jpg",
+                            "productType": "STANDARD",
+                            "vehicleType": "MINIBUS",
+                            "transferServiceType": "SHARED"
+                        },
+                        {
+                            "day": 3,
+                            "type": "IN",
+                            "imageUrl": "https://tr2storage.blob.core.windows.net/transferimages/private-sedan.jpg",
+                            "productType": "STANDARD",
+                            "vehicleType": "CAR",
+                            "transferServiceType": "PRIVATE"
+                        },
+                        {
+                            "day": 13,
+                            "type": "OUT",
+                            "imageUrl": "https://tr2storage.blob.core.windows.net/transferimages/private-sedan.jpg",
+                            "productType": "STANDARD",
+                            "vehicleType": "CAR",
+                            "transferServiceType": "PRIVATE"
+                        }
+                    ],
+                    "hotels": [
+                        {
+                            "day": 3,
+                            "hotelData": {
+                                "name": "Ibis Deira City Centre",
+                                "category": "S3",
+                                "imageUrls": [
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_ba_008.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_r_021.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_w_013.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_r_014.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_a_019.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_a_020.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_w_009.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_r_013.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_ba_007.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_r_008.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_r_016.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_w_008.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_w_012.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_011.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_a_021.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_w_010.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_a_022.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_r_019.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_r_018.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_w_011.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_ba_009.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_r_022.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_ba_010.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_009.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_r_003.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_ba_005.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_w_006.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_ba_004.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_w_015.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_ba_011.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_001.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_r_005.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_005.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_013.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_015.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_r_007.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_ba_012.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_w_002.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_014.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_010.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_a_023.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_r_004.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_w_016.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_l_001.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_017.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_r_020.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_r_006.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_ba_006.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_016.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_l_002.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_r_015.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_a_018.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_w_017.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/10/108599/108599a_hb_r_017.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_012.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/10/108599/108599a_hb_a_008.jpg"
+                                ],
+                                "includedServices": [
+                                    "Internetzugang",
+                                    "Minibar",
+                                    "Individuell regulierbare Klimaanlage",
+                                    "Kabelgebundenes Internet",
+                                    "WLAN-Internetzugang",
+                                    "Wiege auf Bestellung",
+                                    "Extrabetten auf Bestellung",
+                                    "Wäscheservice",
+                                    "Garage",
+                                    "Safe",
+                                    "Haustiere auch +5 kg erlaubt",
+                                    "Fernseher",
+                                    "Fotokopierer",
+                                    "Businesscenter",
+                                    "Small pets allowed (under 5 kg)",
+                                    "Car park"
+                                ],
+                                "nonIncludedServices": [],
+                                "otherServices": [
+                                    "Hotel",
+                                    "American Express",
+                                    "Badezimmer",
+                                    "Klimaanlage in öffentlichen Bereichen",
+                                    "Barrierefreie Zimmer",
+                                    "Bar",
+                                    "Zentral regulierte Klimaanlage",
+                                    "Konferenzräume",
+                                    "Baujahr",
+                                    "Dusche",
+                                    "Restaurant",
+                                    "Wohnzimmer",
+                                    "Nichtraucherzone",
+                                    "Raucherzone",
+                                    "Mobilfunkempfang",
+                                    "Für Rollstühle geeignet",
+                                    "Barrierefreies Badezimmer",
+                                    "Check-in-Zeit",
+                                    "Raucherzimmer",
+                                    "Zimmergröße (m²)",
+                                    "Anzahl der Schlafzimmer",
+                                    "JCB",
+                                    "24h-Rezeption",
+                                    "Frühstücksbuffet",
+                                    "Check-out-Zeit",
+                                    "Diners Club",
+                                    "Strand",
+                                    "Haartrockner",
+                                    "Frühstück",
+                                    "Anzahl der Stockwerke (Hauptgebäude)",
+                                    "MasterCard",
+                                    "Wechselstube",
+                                    "Mittagsbuffet",
+                                    "Mehrsprachiges Personal",
+                                    "Zimmer mit Verbindungstür",
+                                    "Klimaanlage im Restaurant",
+                                    "Visa",
+                                    "Zimmeranzahl gesamt",
+                                    "Aufzug",
+                                    "Cafeteria",
+                                    "Abendbuffet",
+                                    "ISO  9001 certified hotels and restaurants",
+                                    "ISO  14001 certified hotels and restaurants"
+                                ],
+                                "geolocation": {
+                                    "latitude": 25.253385,
+                                    "longitude": 55.332954
+                                },
+                                "description": "Gegenüber der Deira City Centre Shopping Mall und im Businessdistrikt von Port Saeed gelegen befindet sich dieses Hotel in einer erstklassigen Lage im Herzen des historischen Teils von Dubai. Das Hotel bietet 365 klimatisierte Zimmer, ein Bistrorestaurant und eine Bar. Gäste schätzen den Internetzugang in allen Zimmern und WLAN in der Lobby.",
+                                "ratings": [
+                                    {
+                                        "source": "Expedia",
+                                        "numReviews": 1614,
+                                        "score": "4.0"
+                                    },
+                                    {
+                                        "source": "HolidayCheck",
+                                        "numReviews": 158,
+                                        "score": "4.6"
+                                    }
+                                ],
+                                "phoneNumber": "97142925000",
+                                "chain": "ACCOR HOTELS",
+                                "address": "8TH STREET PORT SAEED DISTRICT,  "
+                            },
+                            "roomTypes": "Double or Twin (1)",
+                            "mealPlan": "NUR ZIMMER",
+                            "nights": 2,
+                            "oneDays": "Tage"
+                        },
+                        {
+                            "day": 13,
+                            "hotelData": {
+                                "name": "Tangerine Beach",
+                                "category": "S3",
+                                "imageUrls": [
+                                    "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_w_001.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_a_906.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_l_909.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_p_002.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_w_901.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_a_904.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_w_908.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_t_902.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_w_900.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_a_910.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_a_903.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_f_905.jpg",
+                                    "https://hotelbeds.azureedge.net/giata/bigger/08/084860/084860a_hb_l_907.jpg"
+                                ],
+                                "includedServices": [
+                                    "Individuell regulierbare Klimaanlage",
+                                    "Tischtennis",
+                                    "WLAN-Internetzugang",
+                                    "Zimmerservice",
+                                    "Squash",
+                                    "Wäscheservice",
+                                    "Wäscherei",
+                                    "Medizinischer Dienst",
+                                    "Garage",
+                                    "Volleyball",
+                                    "Tennis",
+                                    "Massagen",
+                                    "Badminton",
+                                    "Spa-Anwendungen",
+                                    "Dart",
+                                    "Fitnessbereich",
+                                    "Haustiere auch +5 kg erlaubt",
+                                    "Fernseher",
+                                    "Small pets allowed (under 5 kg)",
+                                    "Car park"
+                                ],
+                                "nonIncludedServices": [],
+                                "otherServices": [
+                                    "Hotel",
+                                    "American Express",
+                                    "Suiten",
+                                    "Geschäft",
+                                    "Garten",
+                                    "Diätküche",
+                                    "Restaurant",
+                                    "Balkon",
+                                    "Terrasse",
+                                    "Für Rollstühle geeignet",
+                                    "Frühstücksbuffet",
+                                    "Kinderbecken",
+                                    "Frühstück",
+                                    "Anzahl der Stockwerke (Hauptgebäude)",
+                                    "MasterCard",
+                                    "Direktwahltelefon",
+                                    "Wechselstube",
+                                    "Mittagsbuffet",
+                                    "Pool-/Snackbar",
+                                    "Zimmer mit Verbindungstür",
+                                    "Visa",
+                                    "Zimmeranzahl gesamt",
+                                    "Cafeteria",
+                                    "Abendbuffet",
+                                    "Zeitungskiosk"
+                                ],
+                                "geolocation": {
+                                    "latitude": 6.608,
+                                    "longitude": 79.948
+                                },
+                                "description": "Das Hotel befindet sich ca. 40 km südlich von Colombo am Strand von Kalutara.\n\nDas Hotel ist eine tropische Traumlandschaft in den Farben des Paradieses und gleichzeitig ein modernes 4-Sterne-Resort in unmittelbarer Nähe zum Strand. Es hat 166 luxuriöse Gästezimmer und Suiten, einschließlich einer Präsidentensuite und 6 weiteren Suiten mit privaten Balkonen oder Innenhöfen. Das Hotel bietet seinen Gästen eine Wechselstube, ein Café, ein Restaurant und einen Wäscheservice. Mit dem 24h-Zimmerservice bekommen die Gäste jederzeit Speisen und Getränke auf ihrem Zimmer serviert.\n\nAlle Suiten und Zimmer bieten einen atemberaubenden Blick auf den Ozean und den Garten. Jedes Zimmer hat eine individuell regulierbare Klimaanlage. Die weiteren Annehmlichkeiten umfassen Hintergrundmusik, Ventilatoren und gut ausgestattete Badezimmer mit Badewanne und Dusche. Ein Direktwahltelefon, ein TV und ein Balkon oder eine Terrasse zählen ebenso zur Grundausstattung.\n\nDas Hotel bietet einen großen Außenpool mit einer Poolbar, Tennisplätze mit Flutlicht, Tischtennis, Volleyball, Badminton, Billard und ein Fitnessstudio mit Massagen.",
+                                "ratings": [
+                                    {
+                                        "source": "Booking.com",
+                                        "numReviews": 35,
+                                        "score": "8.300000190734863"
+                                    },
+                                    {
+                                        "source": "Expedia",
+                                        "numReviews": 1101,
+                                        "score": "4.0"
+                                    },
+                                    {
+                                        "source": "HolidayCheck",
+                                        "numReviews": 311,
+                                        "score": "4.9"
+                                    }
+                                ],
+                                "phoneNumber": "0094342237982",
+                                "chain": "TANGERINE GROUP HOTEL",
+                                "address": "DE ABREW DRIVE, WASKADUWA,  "
+                            },
+                            "roomTypes": "DOPPEL (1)",
+                            "mealPlan": "ÜBERNACHTUNG MIT FRÜHSTÜCK",
+                            "nights": 10,
+                            "oneDays": "Tage"
+                        }
+                    ],
+                    "tickets": [],
+                    "cars": [],
+                    "insurances": []
+                }
+            ],
+            "minPrice": "1614",
+            "minPriceDot": "1.614"
+        },
+{
+            "id": 10,
+            "name": "Thailand",
+            "imageUrl": "https://travelc.azureedge.net/themes/thai_137-1cc0b17c-d904-4ede-bf08-65c3df6337eb.jpg",
+            "ideas": [],
+            "sub_themes": [
+                {
+                    "id": "10_4",
+                    "name": "Strand",
+                    "imageUrl": "https://travelc.azureedge.net/themes/1869748-9bb43f9e-a7a1-4d74-bc23-7b180829a019.jpg",
+                    "ideas": [
+                        {
+                            "id": "10_4_49460",
+                            "title": "Khao Lak Badeurlaub zum Knallerpreis!",
+                            "description": "Relaxen Sie zwei Wochen am Strand in einem von unseren Kunden empfohlenen guten 4-Sterne Hotel und sparen Sie richtig Geld!",
+                            "imageUrl": "https://travelc.azureedge.net/imagenes/asia/thailand/khaolak/pict2.jpg",
+                            "creationDate": "2017-05-04",
+                            "departureDate": "2017-09-08",
+                            "ideaUrl": "http://buchung.suntrips.de/idea/brochure.xhtml?id\u003d49460\u0026title\u003dkhao-lak-badeurlaub-zum-knallerpreis-\u0026lang\u003dDE\u0026agency\u003dfake-external",
+                            "themes": [
+                                "Strand",
+                                "Thailand"
+                            ],
+                            "pricePerPerson": {
+                                "amount": "922",
+                                "currency": "EUR",
+                                "amountDot": "922",
+                                "additionalProperties": {}
+                            },
+                            "counters": {
+                                "destinations": 1,
+                                "hotelNights": 12,
+                                "transports": 1,
+                                "hotels": 1,
+                                "cars": 0,
+                                "tickets": 0,
+                                "transfers": 2,
+                                "insurances": 0,
+                                "additionalProperties": {}
+                            },
+                            "destinations": [
+                                {
+                                    "fromDay": 1,
+                                    "toDay": 13,
+                                    "code": "TH5",
+                                    "name": "Khao Lak",
+                                    "country": "Thailand",
+                                    "description": "Die Region von Khao Lak, rund 50 km nÃ¶rdlich von Phuket (Transferzeit vom Phuket-Flughafen gut 1 Stunde), reizt Urlauber vor allem durch ihr exotisches Landschaftsbild und ihre malerischen StrÃ¤nde. Auch die NÃ¤he zu fantastischen Schnorchel- und Tauchgebieten, beispielsweise die Unterwasser-Nationalparks von Similian und Surin, lockt viele Reisende. Zur AttraktivitÃ¤t der Region fÃ¼r Aktivurlauber tragen auÃerdem die nahen Regenwald- und Berglandschaften des Khao Sok Nationalparks bei. Die schÃ¶nen StrÃ¤nde sind weitlÃ¤ufig und bieten viel Platz, das Meer leuchtet in allen Blau- und TÃ¼rkisfacetten. In den Orten Nang Thong und Bang Niang finden Sie Abwechslung in Form von landestypischen Restaurants, Bars und Shops. Als beste Reisezeit gelten die Monate November bis Mai. In der Nebensaison wird es ruhiger, das Meer kann aufgewÃ¼hlt und evtl. nicht schwimmbar sein.",
+                                    "imageUrls": [
+                                        "https://travelc.azureedge.net/imagenes/asia/thailand/khaolak/pict1.jpg",
+                                        "https://travelc.azureedge.net/imagenes/asia/thailand/khaolak/pict2.jpg",
+                                        "https://travelc.azureedge.net/imagenes/asia/thailand/khaolak/pict3.jpg",
+                                        "https://travelc.azureedge.net/imagenes/asia/thailand/khaolak/pict4.jpg"
+                                    ],
+                                    "geolocation": {
+                                        "latitude": 8.629911,
+                                        "longitude": 98.244314,
+                                        "additionalProperties": {}
+                                    },
+                                    "recommendedAirportCode": "HKT",
+                                    "recommendedAirportName": "Phuket Intl",
+                                    "dauer": "13 Tage",
+                                    "ort": "Khaolak Bhandari Resort \u0026 Spa Khao Lak",
+                                    "additionalProperties": {}
+                                }
+                            ],
+                            "transports": [
+                                {
+                                    "day": 0,
+                                    "transportType": "FLIGHT",
+                                    "originCode": "FRA",
+                                    "targetDestinationCode": "TH5",
+                                    "targetCode": "HKT",
+                                    "company": "Etihad Airways",
+                                    "transportNumber": "EY8",
+                                    "duration": "15h 55m",
+                                    "departureTime": "21:45:00",
+                                    "arrivalTime": "18:40:00",
+                                    "numberOfSegments": 2,
+                                    "dayDifference": 1,
+                                    "additionalProperties": {}
+                                },
+                                {
+                                    "day": 13,
+                                    "transportType": "FLIGHT",
+                                    "originCode": "HKT",
+                                    "targetCode": "FRA",
+                                    "company": "Etihad Airways",
+                                    "transportNumber": "EY431",
+                                    "duration": "22h 55m",
+                                    "departureTime": "20:25:00",
+                                    "arrivalTime": "14:20:00",
+                                    "numberOfSegments": 2,
+                                    "dayDifference": 1,
+                                    "originDestinationCode": "TH5",
+                                    "additionalProperties": {}
+                                }
+                            ],
+                            "transfers": [
+                                {
+                                    "day": 1,
+                                    "type": "IN",
+                                    "imageUrl": "https://tr2storage.blob.core.windows.net/transport/15401161_735123429969538_7048542296457374454_n-8b5363f1-7b9b-4417-82e0-73c4dfb1bb2d.jpg",
+                                    "productType": "STANDARD",
+                                    "vehicleType": "MINIBUS",
+                                    "transferServiceType": "SHUTTLE",
+                                    "additionalProperties": {}
+                                },
+                                {
+                                    "day": 13,
+                                    "type": "OUT",
+                                    "imageUrl": "https://tr2storage.blob.core.windows.net/transport/15401161_735123429969538_7048542296457374454_n-8b5363f1-7b9b-4417-82e0-73c4dfb1bb2d.jpg",
+                                    "productType": "STANDARD",
+                                    "vehicleType": "MINIBUS",
+                                    "transferServiceType": "SHUTTLE",
+                                    "additionalProperties": {}
+                                }
+                            ],
+                            "hotels": [
+                                {
+                                    "day": 13,
+                                    "hotelData": {
+                                        "name": "Khaolak Bhandari Resort \u0026 Spa",
+                                        "category": "S4",
+                                        "imageUrls": [
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_w_002.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_a_004.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_p_008.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_w_012.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_f_006.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_r_004.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_p_003.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_l_002.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_s_001.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_ba_001.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_f_005.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_a_001.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_w_011.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_a_002.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_w_006.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_r_005.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_w_010.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_k_001.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_r_006.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_w_009.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_p_007.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_a_005.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_l_003.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_f_007.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_w_008.jpg",
+                                            "https://hotelbeds.azureedge.net/giata/bigger/08/082264/082264a_hb_l_001.jpg"
+                                        ],
+                                        "includedServices": [
+                                            "Internetzugang",
+                                            "Minibar",
+                                            "Individuell regulierbare Klimaanlage",
+                                            "Safe",
+                                            "Kabelgebundenes Internet",
+                                            "WLAN-Internetzugang",
+                                            "Wiege auf Bestellung",
+                                            "WÃ¤scheservice",
+                                            "Garage",
+                                            "Badewanne mit Hydromassage",
+                                            "Sauna",
+                                            "Dampfbad",
+                                            "Massagen",
+                                            "Spa-Anwendungen",
+                                            "Haustiere auch +5 kg erlaubt",
+                                            "Fernseher",
+                                            "Small pets allowed (under 5 kg)",
+                                            "Car park"
+                                        ],
+                                        "nonIncludedServices": [
+                                            "Extrabetten auf Bestellung"
+                                        ],
+                                        "otherServices": [
+                                            "Hotel",
+                                            "American Express",
+                                            "Stadtzentrum",
+                                            "Badezimmer",
+                                            "Suiten",
+                                            "Bungalows",
+                                            "Garten",
+                                            "Bar",
+                                            "Tee-/Kaffeezubereiter",
+                                            "Busbahnhof/Bahnhof",
+                                            "Baujahr",
+                                            "Dusche",
+                                            "Restaurant",
+                                            "Balkon",
+                                            "KinderhochstÃ¼hle",
+                                            "Terrasse",
+                                            "FÃ¼r RollstÃ¼hle geeignet",
+                                            "Barrierefreies Badezimmer",
+                                            "Check-in-Zeit",
+                                            "Raucherzimmer",
+                                            "Anzahl der Schlafzimmer",
+                                            "Jahr der letzten Renovierung",
+                                            "Badewanne",
+                                            "24h-Rezeption",
+                                            "FrÃ¼hstÃ¼cksbuffet",
+                                            "Kontinentales FrÃ¼hstÃ¼ck",
+                                            "Check-out-Zeit",
+                                            "Strand",
+                                            "Haartrockner",
+                                            "Anzahl der Stockwerke (HauptgebÃ¤ude)",
+                                            "MasterCard",
+                                            "Direktwahltelefon",
+                                            "Wechselstube",
+                                            "Zimmer mit VerbindungstÃ¼r",
+                                            "Visa",
+                                            "Mittagessen Ã  la carte",
+                                            "Zimmeranzahl gesamt",
+                                            "Abendbuffet",
+                                            "Doppelzimmer",
+                                            "Abendessen Ã  la carte"
+                                        ],
+                                        "geolocation": {
+                                            "latitude": 8.646027,
+                                            "longitude": 98.247663,
+                                            "additionalProperties": {}
+                                        },
+                                        "description": "Das Resort befindet sich in Khao Lak und liegt nur einen kurzen Spaziergang vom Sandstrand entfernt. Das Zentrum von Khao Lak mit seinen Restaurants, Bars und GeschÃ¤ften ist nur 800m entfernt. Zur Ausstattung des Resorts gehÃ¶ren ein Empfangsbereich mit 24h-Rezeption, ein Geldwechselservice und WLAN. Das hoteleigene CafÃ© und Restaurant servieren kÃ¶stliche Gerichte. Es stehen ein WÃ¤scheservice sowie ParkmÃ¶glichkeiten zur VerfÃ¼gung. Alle Zimmer sind mit einer Klimaanlage, einer Minibar und einem Telefon ausgestattet und es gibt ein TV, einen Safe und eine Kaffeemaschine. Die Badezimmer sind mit einer separaten Toilette, Badewanne und Dusche ausgestattet. Ein Doppelbett und ein Balkon gehÃ¶ren in allen Zimmern zur Standardeinrichtung. Das Resort bietet einen Swimmingpool, ein Spa und einen Whirlpool. Das Open-Air-Restaurant Bhandari serviert thailÃ¤ndische und internationale Gerichte zum FrÃ¼hstÃ¼ck sowie Mittag- und Abendessen .",
+                                        "ratings": [
+                                            {
+                                                "source": "Booking.com",
+                                                "numReviews": 77,
+                                                "score": "8.800000190734863",
+                                                "additionalProperties": {}
+                                            },
+                                            {
+                                                "source": "Expedia",
+                                                "numReviews": 602,
+                                                "score": "4.5",
+                                                "additionalProperties": {}
+                                            },
+                                            {
+                                                "source": "HolidayCheck",
+                                                "numReviews": 409,
+                                                "score": "5.2",
+                                                "additionalProperties": {}
+                                            }
+                                        ],
+                                        "phoneNumber": "006676485751",
+                                        "address": "26/25 Moo 7 Khuk Khak,26/25  ",
+                                        "additionalProperties": {}
+                                    },
+                                    "roomTypes": "Double or Twin (1)",
+                                    "mealPlan": "Ãbernachtung mit FrÃ¼hstÃ¼ck",
+                                    "nights": 12,
+                                    "oneDays": "Tage",
+                                    "additionalProperties": {}
+                                }
+                            ],
+                            "tickets": [],
+                            "cars": [],
+                            "insurances": [],
+                            "additionalProperties": {}
+                        }
+                    ],
+                    "minPrice": "922",
+                    "minPriceDot": "922",
+                    "additionalProperties": {}
+                }
+            ],
+            "minPrice": "922",
+            "minPriceDot": "922",
+            "additionalProperties": {}
+        }		
+    ]
+}
